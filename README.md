@@ -1,8 +1,9 @@
 <!--<img src="https://oms.systems/images/hello-world.jpg" /> -->
 
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="left">🚀 About Me:</h3>
-- I'm a passionate Full Stack Developer from Queretaro, Mexico, with a diverse background that includes marketing, digital sales, microcomputer repair, and more.
+<h3 align="left">About Me:</h3>
+
+- 🚀 I'm a passionate Full Stack Developer from Queretaro, Mexico, with a diverse background that includes marketing, digital sales, microcomputer repair, and more.
 
 - 🌟 Over the past year, I've immersed myself in the world of technology, where I've applied my creative and technical skills to exciting and innovative projects.
 
@@ -10,11 +11,9 @@
 
 ✉️ Martin021191@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=facuperezbri&label=Profile%20views&color=0e75b6&style=flat" alt="facuperezbri" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/martin-eduardo-blanco-albornoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facuperezbri" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/martin-eduardo-blanco-albornoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Martin0211" height="30" width="40" /></a>
 </p>
 
 <div align="left">
