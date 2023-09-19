@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="left">About Me:</h3>
 
-- 🚀 I'm a passionate Full Stack Developer from Queretaro, Mexico, with a diverse background that includes marketing, digital sales, microcomputer repair, and more.
-
+- 🚀 I'm a passionate Full Stack Developer from Queretaro, Mexico, with a diverse background that includes 3D design and 3D printing, marketing, digital sales, microcomputer repair, and more.
+  
 - 🌟 Over the past year, I've immersed myself in the world of technology, where I've applied my creative and technical skills to exciting and innovative projects.
 
 - 💼 My professional goal is to kickstart my career in the field of software development, leveraging my passion for technology and my commitment to continuous learning. If you are seeking a dedicated and versatile professional who is constantly evolving in the realms of programming and technology, please do not hesitate to get in touch.
